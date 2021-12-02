@@ -48,8 +48,12 @@ const forms = (state) => {
 
       postData("assets/server.php", formData)
         .then((res) => {
-          console.log(res);
-          statusMessage.textContent = message.success;
+          if (!response.ok) {
+            statusMessage.textContent = message.failure;
+          } else {
+            console.log(res);
+            statusMessage.textContent = message.success;
+          }          
         })
         .catch(() => {
           statusMessage.textContent = message.failure;
