@@ -10,7 +10,7 @@
 * Галлерея при клике на картинку открывает ее на весь экран с полупрозрачной, темной подложкой
 * Модульная структура JS, подключена сборка Gulp + Webpack
 * Сайт размещен:
-https://marin-mar.github.io/serviceoknaJS/
+<a href="https://marin-mar.github.io/serviceoknaJS/" rel="noreferrer" target="blank" >https://marin-mar.github.io/serviceoknaJS/</a><br>
 
 ***
 
@@ -26,4 +26,4 @@ https://marin-mar.github.io/serviceoknaJS/
 * By clicking in Gallery on an image opens it to the full screen with a translucent, dark background
 * Modular JS structure, Gulp + Webpack bundle
 * Site is published at:
-https://marin-mar.github.io/serviceoknaJS/
+<a href="https://marin-mar.github.io/serviceoknaJS/" rel="noreferrer" target="blank" >https://marin-mar.github.io/serviceoknaJS/</a><br>
